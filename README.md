@@ -83,16 +83,8 @@ app/
 
 ---
 
-## 📊 System Architecture
-
-The following diagram illustrates the system flow of the SportTracker app:
-
-![System Diagram](sporttracker_system.png)
-
----
-
 ## 🎯 Technical Highlights
-S
+
 - Strong experience with **Android development** (Kotlin, Java).  
 - Applied **MVVM architecture** with Repository + Room database.  
 - Implemented **sensor-based tracking** (accelerometer, GPS).  
